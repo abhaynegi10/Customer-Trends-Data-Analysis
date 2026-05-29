@@ -140,21 +140,6 @@ The dashboard enables users to explore the data dynamically and gain actionable 
 
 ---
 
-## 📷 Dashboard Preview
-
-### Executive Dashboard
-
-![Dashboard Overview](images/dashboard_overview.png)
-
-### Customer Analysis
-
-![Customer Analysis](images/customer_analysis.png)
-
-### Product Analysis
-
-![Product Analysis](images/product_analysis.png)
-
----
 
 ## 🔍 Key Insights
 
@@ -221,10 +206,3 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 👨‍💻 Author
-
-**Abhay Negi**
-
-Aspiring Data Analyst with a passion for data analytics, business intelligence, and transforming complex datasets into meaningful insights.
-
-If you found this project helpful, feel free to ⭐ star the repository and connect with me on LinkedIn.
